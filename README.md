@@ -58,9 +58,13 @@
 ---
 
 ### Snapshots  
-
-![Splash_Screen](https://github.com/user-attachments/assets/914105a4-6713-4751-a6e3-c0444ec7b96f) ![Homepage](https://github.com/user-attachments/assets/5e1cb8c8-9946-430c-ac1c-3c864f37d5a2)
-![Search](https://github.com/user-attachments/assets/417c73df-46e2-4a86-9c58-5447b61ac51a) ![Category](https://github.com/user-attachments/assets/352dcb69-fe07-4c7d-acba-377b5106fb2b)
-![Recipe_Ingredients](https://github.com/user-attachments/assets/6fb499f2-a6da-4010-b09c-bf6a181df981) ![Recipe_Steps](https://github.com/user-attachments/assets/ee4d8d06-2e4d-423f-a799-2f1f895840f0)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/914105a4-6713-4751-a6e3-c0444ec7b96f" alt="Splash Screen" style="width: 150px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/5e1cb8c8-9946-430c-ac1c-3c864f37d5a2" alt="Homepage" style="width: 150px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/417c73df-46e2-4a86-9c58-5447b61ac51a" alt="Search" style="width: 150px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/352dcb69-fe07-4c7d-acba-377b5106fb2b" alt="Category" style="width: 150px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/6fb499f2-a6da-4010-b09c-bf6a181df981" alt="Recipe Ingredients" style="width: 150px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/ee4d8d06-2e4d-423f-a799-2f1f895840f0" alt="Recipe Steps" style="width: 150px; height: auto;">
+</div>
 
 
